@@ -1,0 +1,3 @@
+C:/Users/witek/CLionProjects/OU_CLion_Git_WS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/witek/CLionProjects/OU_CLion_Git_WS/cmake-build-debug/CMakeFiles/OU_CLion_Git_WS.dir
+C:/Users/witek/CLionProjects/OU_CLion_Git_WS/cmake-build-debug/CMakeFiles/edit_cache.dir
